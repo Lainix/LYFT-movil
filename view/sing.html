@@ -14,7 +14,7 @@
   <!-- Regresar -->
   <div class="">
     <div class="container-flex-columns text-center">
-      <a href="inicio.html" type="submit" id="code" class="btn btn-return down waves-effect waves-light btn card-trigger waves-effect">Regresar</a>
+      <a href="inicio.html"  id="code" class="btn btn-return down waves-effect waves-light btn card-trigger waves-effect">Regresar</a>
     </div>
   </div>
   <!-- Formulario card -->
@@ -29,14 +29,14 @@
             <div class="input-field">
               <select class="icons">
                 <option value="" disabled selected>Country</option>
-                <option class="country" value="mexico" data-icon="assets/imges/mexico.png" class="left">Mexico</option>
-                <option class="country" value="chile" data-icon="assets/imges/chile.png" class="left">chile</option>
-                <option class="country" value="peru" data-icon="assets/imges/peru.png" class="left">peru</option>
-                <option class="country" value="brazil" data-icon="assets/imges/brazil.png" class="left">brazil</option>
+                <option class="country" value="mexico" data-icon="../css/images/mexico.png" class="left">Mexico</option>
+                <option class="country" value="chile" data-icon="../css/images/chile.png" class="left">chile</option>
+                <option class="country" value="peru" data-icon="../css/images/peru.png" class="left">peru</option>
+                <option class="country" value="brazil" data-icon="../css/images/brazil.png" class="left">brazil</option>
               </select>
               <div class="input-field inline">
                 <button type="button" class="btn btn-default subir-capa button_inline"  id="phone">+51</button>
-                <input id="phone" type="text" name="num" class="form-control" for="button_inline" aria-label="..." onkeypress="">
+                <input id="phone" type="text" name="num" class="form-control" for="button_inline" aria-label="..." onkeypress="" maxlength="10">
               </div>
               <div>
                 <label>We´ll send a text to verify your phone</label>
@@ -47,7 +47,7 @@
         <!-- Next -->
         <div class="card-footer">
           <div class="container-flex-columns text-center">
-            <a href="codigo.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect" >Next</a>
+            <a href="codigo.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect" disabled="">Next</a>
           </div>
         </div>
       </div>

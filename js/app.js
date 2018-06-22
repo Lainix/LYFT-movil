@@ -1,11 +1,8 @@
 $(document).ready(function(){
-  setTimeout(function(){window.location.href = 'view/inicio.html';},5000);
+  setTimeout(function(){window.location.href = 'view/inicio.html';},4000);
 })
-
 
 // para que lea e inicialice todo
 $(document).ready(function(){
-    // $('.modal').modal();
-    // $('#add-contact').click(getContactData);
   });
       

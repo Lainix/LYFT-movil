@@ -25,19 +25,16 @@
         <p class="center">Join now for free ride credit</p>
         <hr>
         <div class="row">
-          <form class="col s12">
-            <div class="row">
-              <div class="input-field col s12">
-                <div class="codigo" id="codigo"></div>
-                <button onclick="generator()">Tu código:</button>
-              </div>
-            </div>
-          </form>
+          <!-- sirve nueva -->
+          <form name="test" method="post" action="">
+              <input type="button" onclick="generator('test','pwd')" value="Tu codigo:">
+              <input name="pwd" type="text" value="" size="25" maxlength="25">
+            </form>
         </div>
         <!-- Next -->
         <div class="card-footer">
           <div class="container-flex-columns text-center">
-            <a href="verify.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect">Next</a>
+            <a href="verify.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect" >Next</a>
           </div>
         </div>
       </div>

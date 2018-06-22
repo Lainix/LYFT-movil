@@ -14,7 +14,7 @@
   <!-- Regresar -->
   <div class="">
     <div class="container-flex-columns text-center">
-      <a href="codigo.html" type="submit" id="code" class="btn btn-return down waves-effect waves-light btn card-trigger waves-effect">Regresar</a>
+      <a href="codigo.html" id="code2" class="btn btn-return down waves-effect waves-light btn">Regresar</a>
     </div>
   </div>
   <!-- Formulario card -->
@@ -29,13 +29,13 @@
             <div class="input-field">
                 <div class="row">
                     <div class="col s12">
-                      <div class="input-field inline">
-                        <input id="email_inline" type="email" class="validate">
-                        <label for="email_inline">Lab -</label>
-                      </div>
+                      <form class="input-field inline">
+                          <input type="text" value="Lab - ">
+                        <input class="verify_num" type="text" maxlength="3">
+                      </form>
                     </div>
                   </div>
-              <div>
+                 <div>
                 <label>Enter the code sent to +52</label>
               </div>
             </div>
@@ -44,7 +44,7 @@
         <!-- Next -->
         <div class="card-footer">
           <div class="container-flex-columns text-center">
-            <a href="formulario.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect">Next</a>
+            <a href="formulario.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect" disabled="">Next</a>
           </div>
         </div>
       </div>
