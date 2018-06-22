@@ -12,33 +12,33 @@
 
 <body>
   <header>
+    <!-- Regresar -->
+    <div class="">
+      <div class="container-flex-columns text-center">
+        <a href="sing.html" type="submit" id="code" class="btn btn-return down waves-effect waves-light btn card-trigger waves-effect">Regresar</a>
+      </div>
+    </div>
+    <!-- Formulario card -->
     <div id="card" class="card center">
       <div class="card-content">
         <span class="card-title center">Sing Up</span>
         <p class="center">Join now for free ride credit</p>
         <hr>
         <div class="row">
-          <form class="">
-            <div class="input-field">
-              <select class="icons">
-                <option value="" disabled selected>Country</option>
-                <option class="country" value="mexico" data-icon="assets/img/mexico.png" class="left">Mexico</option>
-                <option class="country" value="chile" data-icon="assets/img/chile.png" class="left">chile</option>
-                <option class="country" value="peru" data-icon="assets/img/peru.png" class="left">peru</option>
-                <option class="country" value="peru" data-icon="assets/img/brazil.png" class="left">brazil</option>
-              </select>
-              <div class="input-field inline">
-                <button type="button" class="btn btn-default subir-capa" id="button_inline">+51</button>
-                <input id="inputTelephone" type="text" class="form-control" for="button_inline" aria-label="...">
-              </div>
-              <div>
-                <label>We´ll send a text to verify your phone</label>
+          <form class="col s12">
+            <div class="row">
+              <div class="input-field col s12">
+                <div class="codigo" id="codigo"></div>
+                <button onclick="generator()">Tu código:</button>
               </div>
             </div>
           </form>
         </div>
+        <!-- Next -->
         <div class="card-footer">
-          <a id="ready" class="waves-effect waves-light btn card-trigger waves-effect" href="#">Listo</a>
+          <div class="container-flex-columns text-center">
+            <a href="verify.html" type="submit" id="code" class="btn btn-login down waves-effect waves-light btn card-trigger waves-effect">Next</a>
+          </div>
         </div>
       </div>
     </div>
