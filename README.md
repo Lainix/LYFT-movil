@@ -29,3 +29,14 @@ Una vez ingresado el número de teléfono se habilita el botón y al dar click d
 ![imagen final](css/images/final.png)
 
 ### NOTA: Todas nuestras vistas deben de contar con una manera de regresar a la vista anterior
+
+***
+### Producto
+
+![Inicio](https://user-images.githubusercontent.com/32379941/45059678-6b670f80-b062-11e8-95ba-678b1a02a4e7.PNG)
+![Registro](https://user-images.githubusercontent.com/32379941/45059682-6efa9680-b062-11e8-911a-912d0ed2cc1f.PNG)
+![Success](https://user-images.githubusercontent.com/32379941/45059686-71f58700-b062-11e8-9a7e-47d9163134f3.PNG)
+
+***
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
