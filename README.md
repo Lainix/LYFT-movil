@@ -1,5 +1,7 @@
 # 2. L Y F T
 
+![Inicio](https://user-images.githubusercontent.com/32379941/45060276-de718580-b064-11e8-9bba-371a1355bb3c.PNG)
+
 >Desarrolla una web-app que replique el sitio de Lyft, en este reto deberás cumplir los pasos necesarios para que tu usuario pueda registrarse.
 
 ## FLUJO DE LA APLICACIÓN
