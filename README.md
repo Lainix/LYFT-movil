@@ -34,7 +34,7 @@ Una vez ingresado el número de teléfono se habilita el botón y al dar click d
 ### Producto
 
 ![Inicio](assets/img/Lyfe.PNG)
-![Registro](assets/img/Ligin.PNG)
+![Registro](assets/img/Login.PNG)
 ![Success](assets/img/success.PNG)
 
 ***
