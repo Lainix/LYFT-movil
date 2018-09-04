@@ -33,7 +33,7 @@ Una vez ingresado el número de teléfono se habilita el botón y al dar click d
 ***
 ### Producto
 
-![Inicio](assets/img/Lyfe.PNG)
+![Inicio](https://user-images.githubusercontent.com/32379941/45060276-de718580-b064-11e8-9bba-371a1355bb3c.PNG)
 ![Registro](assets/img/Login.PNG)
 ![Success](assets/img/success.PNG)
 
