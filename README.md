@@ -1,6 +1,6 @@
 # 2. L Y F T
 
-![Inicio](https://user-images.githubusercontent.com/32379941/45060276-de718580-b064-11e8-9bba-371a1355bb3c.PNG)
+![Inicio](https://user-images.githubusercontent.com/32379941/45246305-33f89d00-b2c6-11e8-939f-c1ab593f4f65.PNG)
 
 >Desarrolla una web-app que replique el sitio de Lyft, en este reto deberás cumplir los pasos necesarios para que tu usuario pueda registrarse.
 
@@ -35,7 +35,7 @@ Una vez ingresado el número de teléfono se habilita el botón y al dar click d
 ***
 ### Producto
 
-![Inicio](https://user-images.githubusercontent.com/32379941/45060276-de718580-b064-11e8-9bba-371a1355bb3c.PNG)
+![Inicio](https://user-images.githubusercontent.com/32379941/45246305-33f89d00-b2c6-11e8-939f-c1ab593f4f65.PNG)
 ![Registro](assets/img/Login.PNG)
 ![Success](assets/img/success.PNG)
 
